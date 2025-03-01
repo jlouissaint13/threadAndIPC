@@ -12,3 +12,8 @@ The goal was to simulate a banking system with multithreading, ensuring thread s
 Project B: Inter-Process Communication (IPC) using Pipes
 
 This project focused on using pipes for IPC between a parent and a child process in a Linux environment. The child process sent data to the parent using a pipe, with proper error handling for communication issues. The project reinforced concepts of forking, process IDs, and pipe-based data transfer between processes.
+
+
+
+Instructions
+Both of these projects should run when downloaded.
